@@ -1,2 +1,4 @@
 # Deep-Learning-Projects
-Deep-Learning-Projects is a repository showcasing a range of projects focused on deep learning. Delve into this compilation to explore diverse practical applications, datasets, and techniques, ideal for both learning and experimentation within the dynamic realm of deep learning.
+Welcome to the Deep Learning Mini Projects repository! This repository is a collection featuring a variety of mini-projects in deep learning. 
+
+Explore projects covering diverse topics, algorithms, and techniques with detailed explanations, code implementations, and result analyses provided for each project.
