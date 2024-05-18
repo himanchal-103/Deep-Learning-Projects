@@ -13,3 +13,11 @@ Below are the sample images from a dataset with labels.
 
 A convolutional Neural Network (CNN) model using TensorFlow and Keras, leveraging both the Sequential and Functional APIs. 
 Sequential API offers a straightforward, linear approach to constructing models layer by layer, while Functional API provides flexibility for building complex architectures with multiple inputs and outputs.
+
+Building model using sequential API
+![sequential_model_plot](https://github.com/himanchal-103/Deep-Learning-Projects/assets/133697230/7886c541-d19c-498c-b4a0-3719c7558d81)
+
+
+Building model using functional API
+![functional_model_plot](https://github.com/himanchal-103/Deep-Learning-Projects/assets/133697230/3da29ad7-f417-4164-81f9-601d8bacd10b)
+
