@@ -16,5 +16,3 @@ Mediapipe identifies 33 key points on the human body, including facial features,
 1. Pose landmark detection for a static image
 
 <img width="377" alt="Screenshot 2024-06-06 at 3 18 10 PM" src="https://github.com/himanchal-103/Deep-Learning-Projects/assets/133697230/1e534d99-078d-493c-b5d2-c0f03f5ad794"><img width="377" alt="Screenshot 2024-06-06 at 3 17 56 PM" src="https://github.com/himanchal-103/Deep-Learning-Projects/assets/133697230/e2594ad9-9272-404b-9ae3-042e8dfa8379">
-
-2. Pose landmarks detection on video( barbell_deadlift.mp4)
